@@ -4,7 +4,7 @@
 1. Opciones Generales<br>
   Se nos pide que activemos la opción Matching Bracket para poder resaltar la llave de un if:
 <br>
-![imagen1](/carpeta/MatchingBracket)
+![imagen1](/carpeta/MatchingBracket.png)
 <br>
 <br>
   Podemos observar que está función es muy útil ya que podemos ver dónde termina una llave o paréntesis sin necesidad de buscarlo manualmente, cosa que hacer perder mucho tiempo.
